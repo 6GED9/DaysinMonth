@@ -1,0 +1,8 @@
+D:\collage\DaysInMonth\DaysInMonth\bin\Debug\DaysInMonth.exe.config
+D:\collage\DaysInMonth\DaysInMonth\bin\Debug\DaysInMonth.exe
+D:\collage\DaysInMonth\DaysInMonth\bin\Debug\DaysInMonth.pdb
+D:\collage\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.csproj.AssemblyReference.cache
+D:\collage\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.csproj.SuggestedBindingRedirects.cache
+D:\collage\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.csproj.CoreCompileInputs.cache
+D:\collage\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.exe
+D:\collage\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.pdb
